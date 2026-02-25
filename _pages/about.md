@@ -19,4 +19,4 @@ social: true
 
 I'm Joan Rodriguez, Co-founder, CEO, and Chief Scientist at [QuiverAI](https://quiver.ai) -- building frontier AI models for generating, editing, and animating vector graphics.
 
-Before QuiverAI, I was a Researcher at [ServiceNow Research](https://www.servicenow.com/company/research.html) and completed my PhD at [Mila](https://mila.quebec/en/) and [ETS, University of Quebec](https://www.etsmtl.ca/en/), working on multimodal generative models at the intersection of vision and language. [More about my academic work](/academic/).
+Before QuiverAI, I completed my PhD at [Mila](https://mila.quebec/en/) and [ETS, University of Quebec](https://www.etsmtl.ca/en/), working on multimodal generative models at the intersection of vision and language. I was also a visiting research intern at [ServiceNow Research](https://www.servicenow.com/company/research.html). [More about my academic work](/academic/).
